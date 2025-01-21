@@ -23,8 +23,6 @@ To run the software and deploy on an FPGA, you will need:
 - **Libraries**:
   - TensorFlow 2.x.
   - NumPy.
-  - Scikit-learn.
-  - Additional dependencies listed in `requirements.txt`.
 
 ---
 
